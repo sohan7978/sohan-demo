@@ -1,2 +1,3 @@
 # sohan-demo
-this is my firsr git repository.
+This is my firsr git repository.
+Author-Sohan Patra
